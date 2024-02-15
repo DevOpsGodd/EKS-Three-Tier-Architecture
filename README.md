@@ -67,7 +67,7 @@ for your E-commerce platform.
 For detailed deployment instructions and technical insights, refer to the accompanying technical article I've written. It provides 
 a step-by-step guide to deploying this application on an AWS EKS cluster.
 
-**Technical Article:** [Check It out here](#)
+**Technical Article:** [Check It out here](https://uthy.hashnode.dev/deploying-an-e-commerce-three-tier-application-on-aws-eks)
 
 Feel free to explore the detailed instructions and insights provided in the article to successfully deploy and manage the 
 E-commerce Three-Tier application on AWS EKS.
